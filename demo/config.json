@@ -1,0 +1,7 @@
+{
+  "cam_source": "rtsp://192.168.1.102:12554/stream2",
+  "allow_origins": [],
+  "app_name": "main:app",
+  "app_host": "0.0.0.0",
+  "app_port": 8000
+}
