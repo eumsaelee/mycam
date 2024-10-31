@@ -6,7 +6,8 @@ authors = ["eumsae"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.11"
+opencv-python = "4.10.0.84"
 
 
 [build-system]
